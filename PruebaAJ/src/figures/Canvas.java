@@ -8,8 +8,9 @@ import support.Log;
 
 public class Canvas {
 	public static void updateHistory() { }
-
+	
 	public static void updateHistory(FigureElement fe) {
 		System.out.println("> updating history for: " + fe);
+		
 	}  
 }

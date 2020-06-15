@@ -31,8 +31,8 @@ public class Main {
         figureFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         figureFrame.pack();
         figureFrame.setVisible(true);
-         
         Point p = new Point(0, 0);
-        p.setX(-10);
+       //p.setY(-10);
+        //p.move(15, 15);
     }
 }
